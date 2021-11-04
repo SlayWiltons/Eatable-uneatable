@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 128911925ad0a124f8b8a25651c8d5e9
+  m_SerializeEntries:
+  - m_GUID: 299d253c5c33ade41a48e74471dfdd43
+    m_Address: Assets/Art/Streaming/Eatable/Grape.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: c3dc76f0d51e3a64c931b716e9b7772d
+    m_Address: Assets/Art/Streaming/Eatable/Melon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 343bd68e5f2899c49ac550852681b4bd
+    m_Address: Assets/Art/Streaming/Eatable/Apricot.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: fb5771644646b8149a36c879ee29d533
+    m_Address: Assets/Art/Streaming/Eatable/Cake.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 62b5a152817fdea469da930f2ed1aa24
+    m_Address: Assets/Art/Streaming/Eatable/Raspberries.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ed75de223b4569548b241ae3a2632b66
+    m_Address: Assets/Art/Streaming/Eatable/Tomato.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 5eea90cb2640d934da9a8b2a7ac7c42c
+    m_Address: Assets/Art/Streaming/Uneatable/Flashlight.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 0291bc60f1ad1704894acda98cc58138
+    m_Address: Assets/Art/Streaming/Uneatable/Lighthouse.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: ccf7362934aadb2489076af15e0c297d
+    m_Address: Assets/Art/Streaming/Uneatable/Ball.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 63eaf0221d8860d43ada111594d60e8a
+    m_Address: Assets/Art/Streaming/Uneatable/Telephone.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 188f4d15982ffb041a3c2b433abba5fa
+    m_Address: Assets/Art/Streaming/Uneatable/Rollers.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: b1a2f66444f985e438b2bbd7a6128d67
+    m_Address: Assets/Art/Streaming/Uneatable/Backpack.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 642a728827ff5e14dae0ede416ec6e7f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 516303012e1aeb74ea0b844297b6560b, type: 2}
+    - {fileID: 11400000, guid: 390171807169fd24fbec6dc246e4da90, type: 2}
